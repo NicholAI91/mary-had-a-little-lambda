@@ -1,0 +1,6 @@
+{
+  "name": "Lambda Dissipation & Spectral Gap Dashboard",
+  "description": "Interactive multi-domain evaluation dashboard exploring continuous memory-weighted dissipation calculus, quantum spectral gap dynamics, and peak rate vs memory half-life metrics across Neuroscience (STDP), Fracture Mechanics, Rheology, and Thermal Physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
